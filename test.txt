@@ -1,1 +1,1 @@
-cty: Chennai
+city: Chennai

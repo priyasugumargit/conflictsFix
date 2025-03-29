@@ -1,1 +1,1 @@
-cty: My city
+cty: Chennai
